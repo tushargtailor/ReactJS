@@ -67,3 +67,11 @@
 .filter {
     display: flex;
 }
+.error-container {
+    justify-items: center;
+    border: 1px solid black;
+}
+.nav-navigation{
+    text-decoration: none;
+    color: black;
+}
